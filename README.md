@@ -10,24 +10,23 @@ I'm a software engineer & developer born and raised India.
 
 
 ## Languages and Tools:
-### sdfafdg
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,react,nodejs,redux,html,css,express,mongodb,aws,gcp,git,github,bitbucket,postgres,postman,vscode,md&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,nextjs,figma,react,nodejs,redux,html,css,express,mongodb,aws,gcp,git,github,bitbucket,postgres,postman,vscode,md&perline=7" />
   </a>
 
 ### Next Up:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,typescript,nextjs,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=threejs&perline=7" />
   </a>
 
 
 
 ### Github Status:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylormusolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-xyz&layout=compact)](https://github.com/jayesh-xyz/github-readme-stats)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taylormusolf&show_icons=true) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayesh-xyz&show_icons=true) 
 
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taylormusolf)](https://git.io/streak-stats)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jayesh-xyz)](https://git.io/streak-stats)
 
