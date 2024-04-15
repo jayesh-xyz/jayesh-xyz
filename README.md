@@ -7,13 +7,16 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk0dnA1d3k2NzN5dXM3MXZvdnd4ZHBoNDJmeGd4ZXg5NWRuOW5qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 
-I'm a software engineer & developer born and raised India.  
+I'm a Fullstack Software Developer born and raised India. 
 
 
 ### Languages and Tools:
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,nextjs,figma,react,nodejs,redux,html,css,express,mongodb,aws,gcp,git,github,bitbucket,postgres,postman,vscode,md&perline=6" />
+<p>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,nextjs,figma,react,nodejs,redux,html,css,express,mongodb,aws,gcp,git,github,bitbucket,postgres,postman,vscode,md,notion&theme=dark&perline=6"/>
   </a>
+
+</p>
 
 ### Next Up:
 
@@ -24,9 +27,10 @@ I'm a software engineer & developer born and raised India.
 &nbsp;
 
 
-| Project | Description | 
-| --- | --- |
-| [Reddit-clone](https://github.com/jayesh-xyz/reddit-clone) | A Fullstack Nextjs reddit clone application. | 
+| Project | Description | Tech-Stack |
+| --- | --- | --- |
+| [Reddit-clone](https://github.com/jayesh-xyz/reddit-clone) | A Fullstack Nextjs reddit clone application. |  NextJs, React, TypeScript, SQL, Supabase, StepZen, GraphQL, Tailwind  |
+
 
 
 
