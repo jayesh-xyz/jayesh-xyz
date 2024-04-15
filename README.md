@@ -1,10 +1,11 @@
 <head>
   <base target="_blank">
+
 </head>
+
+# Hi there, I'm Jayesh!👋🏼
   <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk0dnA1d3k2NzN5dXM3MXZvdnd4ZHBoNDJmeGd4ZXg5NWRuOW5qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-
-### Hi there, I'm Jayesh! 👋
 
 I'm a software engineer & developer born and raised India.  
 
@@ -19,6 +20,8 @@ I'm a software engineer & developer born and raised India.
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs&perline=7" />
   </a></br>
+
+&nbsp;
 
 
 | Project | Description | 
