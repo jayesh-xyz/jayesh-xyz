@@ -1,7 +1,7 @@
 <head>
   <base target="_blank">
 </head>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk0dnA1d3k2NzN5dXM3MXZvdnd4ZHBoNDJmeGd4ZXg5NWRuOW5qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" height = 300/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk0dnA1d3k2NzN5dXM3MXZvdnd4ZHBoNDJmeGd4ZXg5NWRuOW5qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 
 ### Hi there, I'm Jayesh! 👋
