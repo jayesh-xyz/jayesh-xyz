@@ -1,7 +1,8 @@
 <head>
   <base target="_blank">
 </head>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk0dnA1d3k2NzN5dXM3MXZvdnd4ZHBoNDJmeGd4ZXg5NWRuOW5qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" height = 300/>
+
 
 ### Hi there, I'm Jayesh! 👋
 
@@ -17,7 +18,8 @@ I'm a software engineer & developer born and raised India.
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs&perline=7" />
-  </a>
+  </a></br>
+
 
 | Project | Description | 
 | --- | --- |
@@ -28,11 +30,11 @@ I'm a software engineer & developer born and raised India.
 
 ### Github Status:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-xyz&layout=compact)](https://github.com/jayesh-xyz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-xyz&layout=compact&theme=transparent )](https://github.com/jayesh-xyz/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayesh-xyz&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayesh-xyz&show_icons=true&theme=transparent) 
 
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jayesh-xyz)](https://git.io/streak-stats)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jayesh-xyz&theme=transparent )](https://git.io/streak-stats)
 
 
 
