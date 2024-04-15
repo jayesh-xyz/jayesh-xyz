@@ -19,6 +19,11 @@ I'm a software engineer & developer born and raised India.
     <img src="https://skillicons.dev/icons?i=threejs&perline=7" />
   </a>
 
+| Project | Description | 
+| --- | --- |
+| [Reddit-clone](https://github.com/jayesh-xyz/reddit-clone) | A Fullstack Nextjs reddit clone application. | 
+
+
 
 
 ### Github Status:
@@ -28,4 +33,6 @@ I'm a software engineer & developer born and raised India.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayesh-xyz&show_icons=true) 
 
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jayesh-xyz)](https://git.io/streak-stats)
+
+
 
